@@ -12,3 +12,4 @@
 # if it is removed, remove the Permission //
 
 # (3) allows the user to use a command to check all the permissions he has //
+print('Hello World')
